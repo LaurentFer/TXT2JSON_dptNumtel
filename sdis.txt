@@ -1,0 +1,99 @@
+01	SDIS de l'Ain	0437621500	http://www.sdis01.fr/ external link
+02	SDIS de l'Aisne	0323271802	http://www.sdis02.fr/ external link
+03	SDIS de l'Allier	0470351810	http://www.sdis03.fr/  external link
+04	SDIS des Alpes de Haute Provence	0492308900	 
+05	SDIS des Hautes-Alpes	0492401800	http://www.sdis05.fr/  external link
+06	SDIS des Alpes Maritimes	0493227600	http://www.sdis06.fr external link
+07	SDIS de l'Ardèche	0475663600	http://www.sdis07.fr external link
+08	SDIS des Ardennes	0324324600	http://www.sdis08.fr external link
+09	SDIS de l'Ariège	0561054800	http://www.sdis09.fr external link
+10	SDIS de l'Aube	0325435800	http://www.sdis10.com external link
+11	SDIS de l'Aude	0468795900	http://www.sdis11.fr/ external link
+12	SDIS de l'Aveyron	0565771200	 
+13	SDIS des Bouches du Rhône	0491284747	http://www.sdis13.fr/ external link
+14	SDIS du Calvados	0231434000	http://www.sdis14.fr/ external link
+15	SDIS du Cantal	0471468260	 
+16	SDIS de la Charente	0545393500	 
+17	SDIS de la Charente Maritime	0546005909	http://www.sdis17.fr/ external link
+18	SDIS du Cher	0248234700	http://www.sdis18.fr external link
+19	SDIS de la Corrèze	0555296400	http://www.sdis19.fr/  external link
+2A	SDIS de la Corse du sud	0495291800	 
+2B	SDIS de la haute Corse	0495309800	http://www.sdis2b.fr/ external link
+21	SDIS de la Côte-d'Or	0380729779	http://www.sdis21.fr/ external link
+22	SDIS de la Côte-d'Armor	0296751118	http://www.sdis22.fr/ external link
+23	SDIS de la Creuse	0555411803	http://www.sdis23.com/  external link
+24	SDIS de la Dordogne	0553358282	http://www.sdis24.fr/ external link
+25	SDIS du Doubs	0381853600	http://www.sdis25.fr/  external link
+26	SDIS de la Drôme	0475827200	http://www.sdis26.fr/ external link
+27	SDIS de l'Eure	0232622020	http://www.sdis27.fr external link
+28	SDIS d'Eure et Loir	 0237918888	http://www.sdis28.fr/ external link
+29	SDIS du Finistère	0298103150	 
+30	SDIS du Gard	0466633600	http://www.sdis30.fr/ external link
+31	SDIS de la haute-Garonne	0561063700	http://www.haute-garonne.gouv.fr external link
+32	SDIS du Gers	0562603200	http://www.sdis32.fr external link
+33	SDIS de la Gironde	0556018440	 
+34	SDIS de l'Hérault	0467103418	http://www.sdis34.fr external link /
+35	SDIS de l'Ile et Vilaine	0299876543	http://sdis35.fr/ external link
+36	SDIS de l'Indre	0254081800	 
+37	SDIS d'Indre et Loire	0247496868	http://www.sdis37.fr external link
+38	SDIS de l'Isère	0476268900	http://www.sdis38.fr/ external link
+39	SDIS du Jura	0384870818	http://www.sdis39.fr/ external link
+40	SDIS des Landes	0558515656	http://www.sdis40.fr external link
+41	SDIS du Loir et Cher	0254515400	http://www.sdis41.fr/  external link
+42	SDIS de la Loire	0477910800	http://www.sdis42.fr/ external link
+43	SDIS de la Haute-Loire	0471070300	 
+44	SDIS de la Loire-Atlantique	0228098100	http://www.sdis44.fr external link
+45	SDIS du Loiret	0238523523	 
+46	SDIS du Lot	0565230550	http://www.pompiersdulot.com/ external link
+47	SDIS du Lot et Garonne	0553489510	http://www.sdis47.fr/ external link
+48	SDIS de la Lozère	0466656810	 
+49	SDIS du Maine et Loire	0241332100	http://www.sdis49.fr/ external link
+50	SDIS de la Manche	0233721010	http://www.sdis50.fr/ external link
+51	SDIS de la Marne	0326262780	http://www.sdis51.fr/ external link
+52	SDIS de la Haute Marne	0325302525	http://www.sdis52.fr/  external link
+53	SDIS de la Mayenne	0243591600	 
+54	SDIS de Meurthe et Moselle	0383411850	http://www.sdis54.fr/ external link
+55	SDIS de la Meuse	0329775755	http://www.sdis55.fr/  external link
+56	SDIS du Morbihan	0297545618	http://www.sdis56.fr/ external link
+57	SDIS de la Moselle	0387794500	http://www.sdis57.fr external link
+58	SDIS de la Nièvre	0386603758	http://www.sdis58.fr/ external link
+59	SDIS du Nord	0328822859	http://www.sdis59.fr/ external link
+60	SDIS de l'Oise	0344062100	http://www.sdis60.fr external link
+61	SDIS de l'Orne	0233813501	http://www.sdis61.fr/ external link
+62	SDIS du Pas de Calais	0321218000	http://www.sdis62.fr/ external link
+63	SDIS du Puy de Dôme	0473981518	http://www.sdis63.fr/ external link
+64	SDIS des Pyrénées Atlantiques	0559806500	http://www.sdis64.fr/ external link
+65	SDIS des Hautes Pyrénées	0562381800	 
+66	SDIS des Pyrénées Orientales	0468637818	http://www.sdis66.fr/ external link
+67	SDIS du Bas-Rhin	0390207000	http://www.sdis67.com external link
+68	SDIS du Haut-Rhin	0389301800	http://www.pompiers68.fr/ external link
+69	SDIS du Rhône	0472843718	http://www.sdis69.fr/ external link
+70	SDIS de la Haute Saône	0384967600	http://www.sdis70.fr/ external link
+71	SDIS de la Saône et Loire	0385353500	http://www.sdis71.fr/ external link
+72	SDIS de la Sarthe	0243546550	 
+73	SDIS de la Savoie	0479607300	http://www.sdis73.fr/ external link
+74	SDIS de la Haute Savoie	0450227600	http://www.sdis74.fr/ external link
+76	SDIS de Seine Maritime	0235561111	http://www.pompiers76.org external link
+77	SDIS de Seine et Marne	0160568300	http://www.sdis77.fr/ external link
+78	SDIS des Yvelines	0139208100	http://www.sdis78.fr/ external link
+79	SDIS des Deux Sèvres	0549081803	http://www.sdis79.fr/ external link
+80	SDIS de la Somme	0322971818	http://www.sdis80.fr/  external link
+81	SDIS du Tarn	0563773518	http://www.sdis81.fr/  external link
+82	SDIS du Tarn-et-Garonne	0563228000	http://www.sdis82.fr/ external link
+83	SDIS du Var	0494603700	http://www.sdis83.fr/ external link
+84	SDIS du Vaucluse	0490811818	http://www.sdis84.fr/ external link
+85	SDIS de la Vendée	0251451010	http://www.sdis85.com/  external link
+86	SDIS de la Vienne	0549491800	http://www.sdis86.fr/ external link
+87	SDIS de la Haute Vienne	0555128000	http://www.sdis87.fr/internet
+88	SDIS des Vosges	0329357788	http://www.sdis88.fr/ external link
+89	SDIS de l'Yonne	0386944400	http://www.sdis89.fr/ external link
+90	SDIS du Territoire de Belfort	0384587800	http://www.pompiers90.fr/  external link
+91	SDIS Essonne	0178054600	http://www.sdis91.fr external link
+95	SDIS du Val d'Oise	0130757860	http://www.sdis95.fr/ external link
+971	SDIS de la Guadeloupe	0590894717	http://www.sdis-guadeloupe.fr/ external link
+972	SDIS de la Martinique	0596590581	 
+973	SDIS de la Guyane	0594288031	http://www.pompiers-de-guyane.com/  external link
+974	SDIS de La Réunion	0262907600	http://www.sdis974.fr external link
+976	SIS Mayotte	0269611233	http://www.sdis976.fr/  external link
+987	DPC de Polynésie française	00689468591	http://www.polynesie-francaise.pref.gouv.fr external link
+988	DSC Nouvelle-Calédonie	006872663	http://www.nouvelle-caledonie.gouv.fr/ external link
